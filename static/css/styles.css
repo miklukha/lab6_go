@@ -1,0 +1,56 @@
+.result-section {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.result-section h4 {
+  color: #9c5dc1;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.row {
+  margin-bottom: 5px;
+}
+
+.form-label {
+  font-weight: 500;
+}
+
+.btn-outline-primary {
+  border-width: 2px;
+}
+
+.card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background-color: #9c5dc1 !important;
+}
+
+.violet-btn {
+  background-color: #9c5dc1;
+  border-color: #9c5dc1;
+}
+
+.violet-btn:hover,
+.violet-btn:active,
+.violet-btn:focus {
+  background-color: #9037c4;
+  border-color: #9037c4;
+}
+
+.violet-btn-out {
+  border-color: #9c5dc1;
+  color: #9c5dc1;
+}
+
+.violet-btn-out:hover,
+.violet-btn-out:active,
+.violet-btn-out:focus {
+  background-color: #9c5dc1;
+  border-color: #9c5dc1;
+}
