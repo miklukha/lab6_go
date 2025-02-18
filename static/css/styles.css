@@ -54,3 +54,7 @@
   background-color: #9c5dc1;
   border-color: #9c5dc1;
 }
+
+.text-end-custom {
+  text-align: end;
+}
