@@ -58,3 +58,21 @@
 .text-end-custom {
   text-align: end;
 }
+
+.equipment-card {
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.card-header {
+  background-color: #f8f9fa;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
